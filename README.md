@@ -8,4 +8,4 @@ Uses:
 .NET Framework 4.5
 
 May use:
-MS SQL (with 2008 R2 in mind). Please check the folder SQL for how to set up the database.
+MS SQL Server (with 2008 R2 in mind). Please check the folder SQL for how to set up the database.
