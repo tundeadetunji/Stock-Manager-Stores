@@ -9,3 +9,5 @@ Uses:
 
 May use:
 MS SQL Server (with 2008 R2 in mind). Please check the folder SQL for how to set up the database.
+
+Thanks!
